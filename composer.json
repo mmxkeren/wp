@@ -1,0 +1,6 @@
+{
+  "require": {
+    "johnpbloch/wordpress": "*",
+    "herrera-io/silex-pdo": "^1.2"
+  }
+}
